@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/https://x.com/mdmeher25341474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mdmeher25341474" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-meherab-07565a26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-meherab-07565a26b/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/https://www.facebook.com/meherab.hossen.7568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/meherab.hossen.7568" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61583916434295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/meherab.hossen.7568" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mdmeherab41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdmeherab41/" height="30" width="40" /></a>
 </p>
 <h3>🏠 Rajshahi, Bangladesh</h3>
