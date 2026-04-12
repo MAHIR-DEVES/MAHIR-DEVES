@@ -1,10 +1,3 @@
-<!--
-  👋 এই README.md ফাইলটি আপনার GitHub প্রোফাইলে সরাসরি কাজ করবে
-  ✅ কোন JavaScript নেই
-  ✅ কোন complex CSS নেই
-  ✅ Pure Markdown + Basic HTML
--->
-
 <p align="center">
   <img src="https://github.com/MAHIR-DEVES/MAHIR-DEVES/blob/main/github%20banner.png?raw=true" alt="Banner" width="100%">
 </p>
@@ -12,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md Meherab Hossen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=A+passionate+frontend+developer!;I'm+a+MERN+Stack+Developer;From+Rajshahi,+Bangladesh" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=A+passionate+frontend+developer!; I'm+a+Backend+Developer; I'm+a+Full+Stack+Developer;From+Rajshahi,+Bangladesh" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -23,8 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **MERN Stack projects**
-- 🌱 Learning **Next.js, TypeScript, Go**
+- 🔭 I'm currently working on **Full Stack projects**
 - 📫 Reach me: **mdmeherab657@gmail.com**
 - ⚡ Fun fact: **i am funny 😍**
 
