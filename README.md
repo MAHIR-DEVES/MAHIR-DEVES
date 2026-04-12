@@ -5,14 +5,14 @@
 <h1 align="center">Hi 👋, I'm Md Meherab Hossen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=A+passionate+frontend+developer!; I'm+a+Backend+Developer; I'm+a+Full+Stack+Developer;From+Rajshahi,+Bangladesh" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=A+passionate+frontend+developer!;I'm+a+Backend+Developer;I'm+a+Full+Stack+Developer;From+Rajshahi,+Bangladesh" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahir-deves&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
----
+---a
 
 ### 👨‍💻 About Me
 
