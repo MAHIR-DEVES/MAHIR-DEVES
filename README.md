@@ -1,87 +1,102 @@
+<!--
+  👋 এই README.md ফাইলটি আপনার GitHub প্রোফাইলে সরাসরি কাজ করবে
+  ✅ কোন JavaScript নেই
+  ✅ কোন complex CSS নেই
+  ✅ Pure Markdown + Basic HTML
+-->
+
+<p align="center">
+  <img src="https://github.com/MAHIR-DEVES/MAHIR-DEVES/blob/main/github%20banner.png?raw=true" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Meherab Hossen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Full+Stack+MERN+Developer;Frontend+%26+Backend+Developer;From+Rajshahi,+Bangladesh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=A+passionate+frontend+developer!;I'm+a+MERN+Stack+Developer;From+Rajshahi,+Bangladesh" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/MAHIR-DEVES/MAHIR-DEVES/blob/main/github%20banner.png?raw=true" />
+  <img src="https://komarev.com/ghpvc/?username=mahir-deves&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-I am a **Full Stack Developer (MERN Stack)** passionate about building modern,
-scalable web applications.  
-I work with both **Frontend & Backend development** using JavaScript ecosystem.
-
----
-
-## 🧑‍💻 Tech Stack
-
-### 🎨 Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+- 🔭 I'm currently working on **MERN Stack projects**
+- 🌱 Learning **Next.js, TypeScript, Go**
+- 📫 Reach me: **mdmeherab657@gmail.com**
+- ⚡ Fun fact: **i am funny 😍**
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/mdmeher25341474">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/md-meherab-07565a26b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://facebook.com/profile.php?id=61583916434295">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://instagram.com/mdmeherab41">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40">
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahir-deves&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahir-deves&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahir-deves&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahir-deves&show_icons=true&locale=en&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahir-deves&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahir-deves&theme=radical" alt="Streak Stats">
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://x.com/mdmeher25341474">Twitter</a> •
-  <a href="https://www.linkedin.com/in/md-meherab-07565a26b/">LinkedIn</a> •
-  <a href="https://www.facebook.com/profile.php?id=61583916434295">Facebook</a> •
-  <a href="https://www.instagram.com/mdmeherab41/">Instagram</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahir-deves&theme=radical&no-frame=true&row=1&column=7" alt="Trophies">
 </p>
 
 ---
 
-## 📫 Contact
+### 📍 Location
 
-- Email: **mdmeherab657@gamil.com**
-- 📍 Rajshahi, Bangladesh
-- ⚡ Fun fact: I am funny 😍
+**Rajshahi, Bangladesh** 📍
 
 ---
 
-## 🏆 Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.”
-
----
-
-⭐ From [Md Meherab Hossen](https://github.com/mahir-deves)
+<p align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." – but my code? 🔥 Clean & modern.</i>
+</p>
